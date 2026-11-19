@@ -44,7 +44,7 @@
 	`{command}` {when}	`{command}` {when}
 	a bookmark cannot be moved inside itself	אי אפשר להעביר סימנייה לתוך עצמה
 	A button	כפתור
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	יישום PDF בקוד פתוח, שנכתב בשפת Rust מאפס בהתאם למפרט. MIT OR Apache-2.0.
+	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	יישום PDF בקוד פתוח שנכתב באופן עצמאי ב־Rust. MIT OR Apache-2.0.
 	a column is too narrow: make the area wider, give the column more of it, or use fewer columns or less column spacing	עמודה צרה מדי: הרחב את האזור, תן לעמודה רוחב גדול יותר או השתמש בפחות עמודות או במרווח עמודות קטן יותר
 	A diagonal CONFIDENTIAL watermark on every page.	הוספת סימן מים אלכסוני „סודי” לכל עמוד.
 	a document must keep at least one page	על מסמך להכיל לפחות עמוד אחד
@@ -528,7 +528,7 @@ certificate	Basic constraints	אילוצים בסיסיים
 	Couldn't open {name}: {e}	לא ניתן לפתוח את {name}: {e}
 	Couldn't optimize the file	לא ניתן למטב את הקובץ
 	Couldn't optimize the file: {e}	מיטוב הקובץ נכשל: {e}
-	Couldn't print from the browser ({e}); downloaded {name} to print instead	לא ניתן היה להדפיס מהדפדפן ({e}); הקובץ {name} הורד כדי להדפיס אותו במקום זאת
+	Couldn't print from the browser ({e}); downloaded {name} to print instead	לא ניתן להדפיס באמצעות הדפדפן ({e}); הקובץ {name} הורד במקום זאת לצורך הדפסה
 	Couldn't read {name}: {e}	לא ניתן לקרוא את {name}: {e}
 	Couldn't recover {name}: {e}	שחזור {name} נכשל: {e}
 	Couldn't reload {name}: {e}	לא ניתן לטעון מחדש את {name}: {e}
@@ -720,7 +720,7 @@ key	Delete	Delete
 	Done adding text	הוספת הטקסט הסתיימה
 	Double-click	לחיצה כפולה
 	Download	הורדה
-	Downloaded {name}	הקובץ {name} הורד
+	Downloaded {name}	הקובץ {name} הורד בהצלחה
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	הורד {n} קובץ PDF|הורדו {n} קובצי PDF|הורדו {n} קובצי PDF
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	הורדת קבצים מצורפים בגרסת האינטרנט תגיע באבן הדרך M3.10 ({n} בתים מוכנים)
 	Downsample to	הפחתת רזולוציה עד
