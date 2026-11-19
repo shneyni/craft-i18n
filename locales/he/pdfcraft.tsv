@@ -528,7 +528,7 @@ certificate	Basic constraints	אילוצים בסיסיים
 	Couldn't open {name}: {e}	לא ניתן לפתוח את {name}: {e}
 	Couldn't optimize the file	לא ניתן למטב את הקובץ
 	Couldn't optimize the file: {e}	מיטוב הקובץ נכשל: {e}
-	Couldn't print from the browser ({e}); downloaded {name} to print instead	לא ניתן היה להדפיס מהדפדפן ({e}); הורד את {name} כדי להדפיס במקום זאת
+	Couldn't print from the browser ({e}); downloaded {name} to print instead	לא ניתן היה להדפיס מהדפדפן ({e}); הקובץ {name} הורד כדי להדפיס אותו במקום זאת
 	Couldn't read {name}: {e}	לא ניתן לקרוא את {name}: {e}
 	Couldn't recover {name}: {e}	שחזור {name} נכשל: {e}
 	Couldn't reload {name}: {e}	לא ניתן לטעון מחדש את {name}: {e}
@@ -720,7 +720,7 @@ key	Delete	Delete
 	Done adding text	הוספת הטקסט הסתיימה
 	Double-click	לחיצה כפולה
 	Download	הורדה
-	Downloaded {name}	הורד {name}
+	Downloaded {name}	הקובץ {name} הורד
 @plural	Downloaded {n} PDF|Downloaded {n} PDFs	הורד {n} קובץ PDF|הורדו {n} קובצי PDF|הורדו {n} קובצי PDF
 	Downloading attachments on the web arrives with M3.10 ({n} bytes ready)	הורדת קבצים מצורפים בגרסת האינטרנט תגיע באבן הדרך M3.10 ({n} בתים מוכנים)
 	Downsample to	הפחתת רזולוציה עד
