@@ -2721,3 +2721,32 @@ calendar weekday	We	ד׳
 	This document's script is asking	הסקריפט של מסמך זה שואל
 	Document: {name}	מסמך: {name}
 	This request comes from the document, not PdfCraft. Only enter a password if you trust this document.	בקשה זו מגיעה מהמסמך, לא מ-PdfCraft. הזינו סיסמה רק אם אתם סומכים על מסמך זה.
+# Update dialogs (IDs from craft-libs UpdateWords).
+@id	updateDialog.availableTitle	קיימת גרסה חדשה
+@id	updateDialog.availableMessage	גרסה {version} של {app} זמינה. הגרסה המותקנת היא {running}.
+@id	updateDialog.updateAndRestart	עדכון והפעלה מחדש
+@id	updateDialog.restartToUpdate	הפעלה מחדש לצורך עדכון
+@id	updateDialog.saveAndUpdate	שמירה ועדכון
+@id	updateDialog.saving	שומר את העבודה…
+@id	updateDialog.download	הורדה
+@id	updateDialog.later	מאוחר יותר
+@id	updateDialog.whatsNew	מה חדש
+@id	updateDialog.releasesListed	כל הגרסאות מופיעות בכתובת
+@id	updateDialog.versionLine	v{running} - {version}
+@id	updateDialog.byDeveloper	מאת {developer}
+@id	updateDialog.installing	מתקין…
+@id	updateDialog.checkTitle	בדיקת עדכונים
+@id	updateDialog.checking	בודק אם קיימים עדכונים…
+@id	updateDialog.upToDate	הגרסה {running} של {app} היא העדכנית ביותר.
+@id	updateDialog.failed	בדיקת העדכונים נכשלה.
+@id	updateDialog.rateLimited	GitHub הגיעה למגבלת הבקשות. יש לנסות שוב מאוחר יותר.
+@id	updateDialog.checkAgain	בדיקה חוזרת
+@id	updateDialog.checkNow	בדוק כעת
+@id	updateDialog.notChecked	עדיין לא נבדקו עדכונים.
+@id	updateDialog.cannotAutoUpdate	לא ניתן לעדכן אוטומטית התקנה מסוג זה. יש להוריד את העדכון באופן ידני.
+@id	updateDialog.releaseNotes	הערות הגרסה
+@id	updateDialog.readyAfterExit	העדכון מוכן. יש לסגור את {app} כדי להתקין אותו.
+@id	updateDialog.readyInstalled	העדכון הותקן. יש לסגור את {app} להשלמת התהליך; התוכנה תופעל מחדש באופן אוטומטי.
+@id	updateDialog.managed	הגרסה {running} של {app} כפופה לגרסה שנבחרה במפעיל, ולכן אינה מתעדכנת בעצמה.
+@id	updateDialog.updated	{app} עודכנה לגרסה {version}.
+@id	updateDialog.installFailed	לא ניתן להתקין את העדכון: {reason}
